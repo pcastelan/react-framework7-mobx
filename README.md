@@ -6,12 +6,11 @@ The framework7 + react template was created using [Create React App](https://git
 
 This template uses [react-app-rewired](https://github.com/timarney/react-app-rewired/tree/master/packages/react-app-rewire-mobx) to allow decorators.
 
-## Instalation
 
 clone the repo:
 
 ```
-git clone https://github.com/pcastelan/react-framework7-mobx/ my-app
+git clone https://github.com/pcastelan/react-framework7-mobx.git my-app
 ```
 
 and install dependencies
