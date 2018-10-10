@@ -31,3 +31,6 @@ npm start
 ```
 npm run build
 ```
+
+## Roadmap
++ [react-loadable](https://github.com/jamiebuilds/react-loadable) integration
